@@ -109,6 +109,7 @@ font-weight: bold;
     margin: 0 auto;
     justify-content: center;
     text-align: left;
+	   flex-wrap: wrap;
   }
   
   .title {
